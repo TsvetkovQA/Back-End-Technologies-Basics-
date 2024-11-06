@@ -1,0 +1,17 @@
+{
+  "name": "10.unit-testing-with-js",
+  "version": "1.0.0",
+  "main": "01.SumOfNumbers.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "03.movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "movieService.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.1"
+  }
+}
